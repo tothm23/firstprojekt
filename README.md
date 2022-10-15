@@ -1,0 +1,1 @@
+# IKT I. Programozás alapok Verziókezelő és csoportmunka eszközök Fejezetzáró feladata
